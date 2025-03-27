@@ -1,0 +1,9 @@
+Model Performance Metrics:
+=======================
+Accuracy: 0.9515933333333333
+Precision: 0.9711764705882353
+Recall: 0.8476395374422414
+F1 Score: 0.9052125895852643
+Confusion Matrix: [[216136   2058]
+ [ 12464  69342]]
+Roc Auc: 0.9596157482658618

@@ -1,0 +1,15 @@
+Day
+Months_after_giving_birth
+Previous_Mastits_status
+IUFL
+EUFL
+IUFR
+EUFR
+IURL
+EURL
+IURR
+EURR
+Temperature
+Hardness
+Pain
+Milk_visibility

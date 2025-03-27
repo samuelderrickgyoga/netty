@@ -1,0 +1,13 @@
+Model Performance Metrics:
+=======================
+Auc Roc: 0.9879763136533769
+Log Loss: 0.08622289908181839
+Classification Report:               precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98    218540
+           1       0.99      0.91      0.95     81460
+
+    accuracy                           0.97    300000
+   macro avg       0.98      0.95      0.97    300000
+weighted avg       0.97      0.97      0.97    300000
+
